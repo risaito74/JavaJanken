@@ -1,0 +1,2 @@
+# JavaJanken
+Javaで作ったオートジャンケンゲーム
